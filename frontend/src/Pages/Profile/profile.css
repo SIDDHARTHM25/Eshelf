@@ -1,0 +1,228 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap");
+
+.page {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 5%;
+}
+
+.profile {
+  float: left;
+  width: 30%;
+}
+
+.profilepic {
+  right: 20px;
+}
+
+/*
+.profilepic{
+
+  border-radius: 5%;
+  height: 20%;
+  width:10%;
+  align-items: center;
+}
+
+.profilepic {
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+}
+*/
+
+.name {
+  margin-top: 0.75em;
+}
+
+.name1 {
+  text-align: left;
+  font-size: 2.7em;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: 600;
+}
+
+.author {
+  text-align: left;
+  margin-top: 0.25em;
+}
+
+.author1 {
+  margin-bottom: 1.4em;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  font-size: 20pt;
+  color: rgb(168, 67, 49);
+}
+
+/* CONTACT DETAILS */
+
+.contact1 {
+  font-size: 1.5em;
+  font-family: "Trebuchet MS", sans-serif;
+  text-decoration: underline;
+}
+
+.email {
+  text-align: left;
+}
+
+.email1 {
+  margin-top: 0.5em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+.Twitter {
+  text-align: left;
+}
+
+.Twitter1 {
+  margin-top: 0.5em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+.linkedInUrl {
+  text-align: left;
+}
+
+.linkedInUrl1 {
+  margin-top: 0.5em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+.Mnumber {
+  text-align: left;
+}
+
+.Mnumber1 {
+  margin-top: 0.5em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+/*COMPANY DETAILS */
+
+.Company {
+  text-align: left;
+}
+
+.Company1 {
+  font-size: 1.5em;
+  font-family: "Trebuchet MS", sans-serif;
+  text-decoration: underline;
+}
+
+.Company2 {
+  margin-top: 0.5em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+.Location {
+  text-align: left;
+}
+
+.Location1 {
+  font-size: 1.5em;
+  font-family: "Trebuchet MS", sans-serif;
+  text-decoration: underline;
+}
+
+.Location2 {
+  margin-top: 0.3em;
+  font-size: 1.4em;
+  color: rgb(114, 106, 106);
+}
+
+/*.decoration{
+  float:right;
+  width:60%;
+}
+
+
+.decoration1{
+    width:60%;
+    float:right;
+}*/
+
+.bio {
+  float: right;
+  width: 70%;
+}
+
+.bio1 {
+  padding: 1em;
+  font-size: 1.3em;
+  font-family: "Times New Roman", Times, serif;
+  width: "auto";
+  border: 2px solid rgb(168, 67, 49);
+  border-radius: 20px;
+  border-spacing: 20px;
+}
+
+.bio2 {
+  font-size: 1.3em;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: 1000;
+  text-decoration: underline;
+}
+
+.posts {
+  float: right;
+  width: 70%;
+}
+
+.posts1 {
+  font-size: 1.3em;
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: 1000;
+  text-decoration: underline;
+  text-align: left;
+}
+
+/*
+.followbutton{
+  text-align: center;
+}
+
+.followbutton1{
+
+  background-color:rgb(43, 138, 216);
+  border: none;
+  color:white;
+  padding: 16px 40px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size:1em;
+  font-family:'Montserrat';
+}
+
+.followbutton1:hover{
+  box-shadow: 0 0 15px rgba(0,0,0,0.2), 0 0 15px rgba(0,0,0,0.2);
+}*/
+
+/*
+.followers{
+  text-align: center;
+}
+
+.following{
+  text-align: center;
+}
+
+.count{
+  
+  font-size:1.5em;
+  font-family:'Montserrat';
+}
+
+.follow-following{
+
+  margin-top:-1.2em;
+  font-size:1.1em;
+}*/
